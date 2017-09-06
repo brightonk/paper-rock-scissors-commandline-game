@@ -1,0 +1,7 @@
+
+
+== Main Menu ==
+
+How many times do you want to play?
+
+Enter your choice between 0 and 10 [ 0 to Quit ]:
